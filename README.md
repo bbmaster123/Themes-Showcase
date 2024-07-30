@@ -20,3 +20,6 @@ thanks for looking!
 
 ![pika-clouds](https://github.com/bbmaster123/Themes-Showcase/assets/92948468/bbcc4641-4a49-4b7c-b935-bdc8fe053c4f)
 
+Changed Weather widget on left to a GIF / Changed to currently playing album cover with Spotify API
+![Lvzy2FVS2Y](https://github.com/user-attachments/assets/526dcf7c-2bb5-408b-8e5c-5733ccfdaf01)![0MacOJJBYR](https://github.com/user-attachments/assets/bd12ad39-98f9-4c58-b587-4d597dba77f9)
+![nxmV21Ba6C](https://github.com/user-attachments/assets/e99306ac-aede-4f15-9f10-dd2d25993470)
