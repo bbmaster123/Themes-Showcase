@@ -28,6 +28,9 @@ thanks for looking!
 #### Starry
 ![Starry](https://github.com/bbmaster123/Themes-Showcase/blob/main/Animated%20Taskbar%20Ideas/starry.gif?raw=true)
 
+#### Starry Outlook
+![Starry](https://github.com/bbmaster123/Themes-Showcase/blob/main/Animated%20Taskbar%20Ideas/starry-outlook.gif?raw=true)
+
 Changed Weather widget on left to a GIF / Changed to currently playing album cover with Spotify API
 ![Lvzy2FVS2Y](https://github.com/user-attachments/assets/526dcf7c-2bb5-408b-8e5c-5733ccfdaf01)![0MacOJJBYR](https://github.com/user-attachments/assets/bd12ad39-98f9-4c58-b587-4d597dba77f9)
 ![nxmV21Ba6C](https://github.com/user-attachments/assets/e99306ac-aede-4f15-9f10-dd2d25993470)
